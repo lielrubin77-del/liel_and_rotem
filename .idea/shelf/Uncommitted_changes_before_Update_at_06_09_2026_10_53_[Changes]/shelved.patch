@@ -1,0 +1,16 @@
+Index: rottem and liel.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#We all were here!!!!!!\r\n#and thaqt what made me sad i dont wanna be here/\r\n#lllllll
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/rottem and liel.py b/rottem and liel.py
+--- a/rottem and liel.py	(revision a0fe6ab8c7c04d7a83d567c28caafbf8d6cb952c)
++++ b/rottem and liel.py	(date 1788681215454)
+@@ -1,3 +1,3 @@
+ #We all were here!!!!!!
+ #and thaqt what made me sad i dont wanna be here/
+-#lllllll
+\ No newline at end of file
++#lllllll
